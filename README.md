@@ -1,7 +1,8 @@
-#🧪 Automation Task - E-commerce Website Testing
+🧪#Automation Task - E-commerce Website Testing
+
 This project contains an automation solution for testing an e-commerce website using the BDD framework with TestNG, Selenium, and the Page Object Model (POM) design pattern.
 
-#📌 Tools & Frameworks Used
+📌#Tools & Frameworks Used
 Selenium WebDriver
 
 Java
@@ -14,11 +15,11 @@ Page Object Model (POM)
 
 Maven for dependency management
 
-#📁 Project Structure
+📁 #Project Structure
 The project follows a clean, modular structure using BDD and POM.
 A reference image (BDDTaskStructure.png) is included in the project root to visually explain the folder structure and responsibilities of each layer.
 
-#▶️ How to Run
+▶️ #How to Run
 Clone or download the project to your local machine.
 
 Open the project in an IDE such as IntelliJ IDEA.
